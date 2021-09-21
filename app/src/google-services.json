@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "554222589426",
+    "project_id": "mlkitface-ee6b8",
+    "storage_bucket": "mlkitface-ee6b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554222589426:android:e7e9db91c12bdcb0eb076b",
+        "android_client_info": {
+          "package_name": "com.example.lco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554222589426-dkvc9mssp43a4sv677oc34v3o6fcq6u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkx4ErDUY1OEh7vTy0BqCwlyy_S2xPUb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554222589426-dkvc9mssp43a4sv677oc34v3o6fcq6u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
